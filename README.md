@@ -4,6 +4,8 @@ A precise stopwatch with lap recording, and a countdown timer with a sound alert
 
 **Live app:** https://abood-ayman.github.io/stopwatch-timer-ar/
 
+**LinkedIn:** [Project entry](https://www.linkedin.com/in/abdullah-ayman-1678b737b/details/projects/)
+
 ![Stopwatch & Timer, mobile view](docs/screenshot.svg)
 
 This is a personal project, built with AI tools.
