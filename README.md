@@ -1,28 +1,27 @@
-# ساعة إيقاف ومؤقت
+# Stopwatch & Timer | ساعة إيقاف ومؤقت
 
-ساعة إيقاف باللفات + مؤقت تنازلي بتنبيه صوتي
+A precise stopwatch with lap recording, and a countdown timer with a sound alert. Arabic interface.
 
-**رابط الأداة (تعمل فورًا من المتصفح):** https://abood-ayman.github.io/stopwatch-timer-ar/
+**Live app:** https://abood-ayman.github.io/stopwatch-timer-ar/
 
-## ما الذي تقدمه؟
+![Stopwatch & Timer, mobile view](docs/screenshot.svg)
 
-- ساعة إيقاف بدقة عشر الثانية مع تسجيل اللفات
-- مؤقت تنازلي بالدقائق والثواني مع تنبيه صوتي عند الانتهاء
-- بدء وإيقاف مؤقت واستئناف وإعادة ضبط
-- تعمل في نفس الصفحة دون تطبيق أو تسجيل
+This is a personal project, built with AI tools.
 
-## الخصوصية
+## Features
+- Stopwatch with tenth-of-a-second precision and lap recording
+- Countdown timer in minutes and seconds with a sound alert
+- Start, pause, resume and reset
+- Works in the same page, no app or signup
 
-تعمل الأداة بالكامل داخل متصفحك (HTML/CSS/JavaScript فقط). لا يوجد خادم، ولا حسابات، ولا تتبّع، ولا تُرسل أو تُحفظ أي بيانات تدخلها خارج جهازك.
+## Privacy
+Everything runs in your browser. No data is stored or sent anywhere.
 
-## التقنية
+## Run locally
+Open `index.html` in any browser. It is a single static page with no dependencies.
 
-صفحة ثابتة واحدة بلا أي مكتبات خارجية، تعمل على الهاتف والحاسوب، وتُستضاف مجانًا عبر GitHub Pages.
+## Status
+Stable.
 
-## ملاحظة شفافية
-
-بُنيت هذه الأداة بمساعدة أدوات ذكاء اصطناعي، ورُوعيَت بساطتها وفائدتها المباشرة.
-
-## الرخصة
-
-MIT — انظر ملف LICENSE.
+## Copyright
+MIT License - Copyright (c) 2026 Abdullah Ayman.
